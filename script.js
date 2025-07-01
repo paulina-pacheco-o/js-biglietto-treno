@@ -1,0 +1,1 @@
+const km = parseInt(prompt(`Inserisci la quatità di kilometri che vuoi percorrere`))
