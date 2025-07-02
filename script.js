@@ -15,3 +15,8 @@ if (age > 65) {
   originalPrice = originalPrice - originalPrice * 40 / 100
 }
 console.log(originalPrice)
+
+//else {
+//originalPrice = originalPrice
+//}
+
